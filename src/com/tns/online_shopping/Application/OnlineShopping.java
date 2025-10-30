@@ -222,4 +222,5 @@ public class OnlineShopping {
         productService.addProduct(new Product(102, "Trouser", 1400.0, 50));
         adminService.createAdmin(new Admin(1, "superadmin", "admin@shop.com"));
     }
+    
 }
